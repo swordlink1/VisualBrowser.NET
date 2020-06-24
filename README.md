@@ -1,5 +1,5 @@
 # Download
-Since Github does not list pre-releases, you'll need to download v0.9 Beta by [clicking on this text to go to the releases tab.](https://github.com/swordlink1/VisualBrowser.NET/releases "Click on this link to go to the releases tab.")
+Since Github does not list pre-releases, you'll need to download v0.9 Beta by [clicking on this text to go to the releases tab.](https://github.com/swordlink1/VisualBrowser.NET/releases "Click on this link to download v0.9 beta.")
 
 # VisualBrowser.NET
 Welcome to VisualBrowser.NET! VisualBrowser.NET contains themes, custom themes, settings, basic browser functions, compatibility mode, and more!
