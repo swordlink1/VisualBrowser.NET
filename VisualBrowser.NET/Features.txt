@@ -1,0 +1,11 @@
+﻿Current Features:
+Basic Browser Functions
+Barely Working Themes
+Compatibility Mode
+IE 11 Rendering Engine
+Planned Features:
+Custom Themes
+Printing From Action Bar
+Downloading Websites For Offline Uses
+Website Properties
+Inspect Element
