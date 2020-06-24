@@ -6,7 +6,9 @@ Right now in this version, the features are:
 - Compatibility Mode
 - Basic Browser Functions
 - IE 11 Rendering Engine
+
 We're planning to make:
+
 - Custom Themes
 - Printing From Action Bar
 - Downloading Websites For Offline Uses
