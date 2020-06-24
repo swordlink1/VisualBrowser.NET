@@ -15,3 +15,5 @@ We're planning to make:
 - Downloading Websites For Offline Uses
 - Website Properties
 - Inspect Element
+
+Read the LICENSE file to see what you can do with this project.
